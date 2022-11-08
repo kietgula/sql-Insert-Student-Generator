@@ -1,0 +1,4 @@
+INSERT INTO `student_management`.`grades` (`id`, `name`, `createdAt`, `updatedAt`) VALUES ('0', '10', '2022-08-11 00:00:00', '2022-08-11 00:00:00');
+INSERT INTO `student_management`.`grades` (`id`, `name`, `createdAt`, `updatedAt`) VALUES ('1', '11', '2022-08-11 00:00:00', '2022-08-11 00:00:00');
+INSERT INTO `student_management`.`grades` (`id`, `name`, `createdAt`, `updatedAt`) VALUES ('2', '12', '2022-08-11 00:00:00', '2022-08-11 00:00:00');
+
